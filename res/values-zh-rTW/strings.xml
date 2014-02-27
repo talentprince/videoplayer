@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="loading_video" msgid="4013492720121891585">"正在載入影片…"</string>
+    <string name="resume_playing_title" msgid="8996677350649355013">"繼續播放影片"</string>
+    <string name="resume_playing_message" msgid="5184414518126703481">"要從 %s 繼續播放嗎？"</string>
+    <string name="details_ms" msgid="940634969189855292">"%1$02d:%2$02d"</string>
+    <string name="details_hms" msgid="3215779248094151255">"%1$d:%2$02d:%3$02d"</string>
+    <string name="resume_playing_resume" msgid="3847915469173852416">"繼續播放"</string>
+    <string name="resume_playing_restart" msgid="5471008499835769292">"重新開始"</string>
+
+</resources>
